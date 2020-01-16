@@ -1,0 +1,13 @@
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\bin\Debug\E_Ticaret_Dal.dll.config
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\bin\Debug\E_Ticaret_Dal.dll
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\bin\Debug\E_Ticaret_Dal.pdb
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\bin\Debug\EntityFramework.dll
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\bin\Debug\FakeData.dll
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\bin\Debug\EntityFramework.xml
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\bin\Debug\FakeData.pdb
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\obj\Debug\E_Ticaret_Dal.csprojAssemblyReference.cache
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\obj\Debug\E_Ticaret_Dal.csproj.CopyComplete
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\obj\Debug\E_Ticaret_Dal.dll
+C:\Users\Numan\source\repos\ETicaret\E_Ticaret_Dal\obj\Debug\E_Ticaret_Dal.pdb
